@@ -1,0 +1,22 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/JAMAL/AndroidStudioProjects/PicnEdit/app/src/main/res/drawable-v24/background.xml" value="0.129" />
+        <entry key="..\:/Users/JAMAL/AndroidStudioProjects/PicnEdit/app/src/main/res/drawable/splashBack.xml" value="0.1305" />
+        <entry key="..\:/Users/JAMAL/AndroidStudioProjects/PicnEdit/app/src/main/res/drawable/splash_back.xml" value="0.1305" />
+        <entry key="..\:/Users/JAMAL/AndroidStudioProjects/PicnEdit/app/src/main/res/drawable/splashback.xml" value="0.1305" />
+        <entry key="..\:/Users/JAMAL/AndroidStudioProjects/PicnEdit/app/src/main/res/font/roboto_black.xml" value="0.23425925925925925" />
+        <entry key="..\:/Users/JAMAL/AndroidStudioProjects/PicnEdit/app/src/main/res/layout/activity_edited.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/JAMAL/AndroidStudioProjects/PicnEdit/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/JAMAL/AndroidStudioProjects/PicnEdit/app/src/main/res/layout/activity_splash_screen.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
